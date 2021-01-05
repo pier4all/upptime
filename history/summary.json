@@ -1,20 +1,20 @@
 [
   {
-    "name": "enablerr",
+    "name": "enablerr preprod",
     "url": "https://preprod.enablerr.dev/",
     "icon": "https://favicons.githubusercontent.com/preprod.enablerr.dev",
-    "slug": "enablerr",
+    "slug": "enablerr-preprod",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1104,
-    "timeDay": 1104,
-    "timeWeek": 1104,
-    "timeMonth": 1104,
-    "timeYear": 1104,
+    "time": 917,
+    "timeDay": 917,
+    "timeWeek": 917,
+    "timeMonth": 917,
+    "timeYear": 917,
     "dailyMinutesDown": {}
   }
 ]
