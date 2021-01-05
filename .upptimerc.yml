@@ -4,7 +4,7 @@ repo: upptime # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: enablerr
+  - name: enablerr preprod
     url: https://preprod.enablerr.dev/
 
 status-website:
@@ -13,14 +13,14 @@ status-website:
   # Uncomment the following line if you don't have a custom domain and add your repo name
   baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  name: "pier4all Upptime"
+  introTitle: "**pier4all Upptime** is the uptime monitor and status page for all sites powered by pier4all."
+  introMessage: "View the tickets and statistics for every site and the overall status of pier4all powered sites."
   navbar:
-    - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: pier4all
+      href: https://wp.enablerr.ch/pier4all/
+    - title: enablerr
+      href: https://wp.enablerr.ch
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
