@@ -6,6 +6,13 @@ repo: upptime # Your GitHub repository name
 sites:
   - name: enablerr preprod
     url: https://preprod.enablerr.dev/
+  - name: enablerr site
+    url: https://www.enablerr.ch
+  - name: pier4all site
+    url: https://www.pier4all.ch
+
+assignees: # Users to assign downtime issues (optional)
+  - jcschmidig
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
