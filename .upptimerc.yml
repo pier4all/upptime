@@ -23,11 +23,11 @@ status-website:
   name: "pier4all Upptime"
   introTitle: "**pier4all Upptime** is the uptime monitor and status page for all sites powered by pier4all."
   introMessage: "View the tickets and statistics for every site and the overall status of pier4all powered sites."
-  navbar:
-    - title: pier4all
-      href: https://wp.enablerr.ch/pier4all/
-    - title: enablerr
-      href: https://wp.enablerr.ch
+  # navbar:
+  #  - title: pier4all
+  #    href: https://wp.enablerr.ch/pier4all/
+  #  - title: enablerr
+  #    href: https://wp.enablerr.ch
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
