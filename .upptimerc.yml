@@ -5,7 +5,7 @@ repo: upptime # Your GitHub repository name
 # Add your sites here
 sites:
   - name: enablerr preprod
-    url: https://preprod.enablerr.dev/
+    url: https://preprod.enablerr.dev/login
   - name: enablerr site
     url: https://www.enablerr.ch
   - name: pier4all site
