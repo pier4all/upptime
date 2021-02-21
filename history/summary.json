@@ -40,9 +40,9 @@
     "url": "https://www.pier4all.ch",
     "icon": "https://favicons.githubusercontent.com/www.pier4all.ch",
     "slug": "pier4all-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,6 +51,8 @@
     "timeWeek": 729,
     "timeMonth": 791,
     "timeYear": 770,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-21": 0
+    }
   }
 ]
