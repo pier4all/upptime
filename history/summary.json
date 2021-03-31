@@ -5,20 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/preprod.enablerr.dev",
     "slug": "enablerr-preprod",
     "status": "up",
-    "uptime": "99.95%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.95%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 812,
-    "timeDay": 958,
-    "timeWeek": 944,
-    "timeMonth": 822,
+    "timeDay": 798,
+    "timeWeek": 893,
+    "timeMonth": 821,
     "timeYear": 812,
-    "dailyMinutesDown": {
-      "2021-03-17": 34,
-      "2021-02-21": 23
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "enablerr site",
@@ -31,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
-    "time": 1939,
-    "timeDay": 2624,
-    "timeWeek": 3118,
-    "timeMonth": 3418,
-    "timeYear": 1939,
+    "time": 1956,
+    "timeDay": 3502,
+    "timeWeek": 3034,
+    "timeMonth": 3421,
+    "timeYear": 1956,
     "dailyMinutesDown": {
       "2021-03-17": 17
     }
@@ -51,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
-    "time": 1304,
-    "timeDay": 1987,
-    "timeWeek": 2244,
-    "timeMonth": 2040,
-    "timeYear": 1304,
+    "time": 1312,
+    "timeDay": 2002,
+    "timeWeek": 2168,
+    "timeMonth": 2038,
+    "timeYear": 1312,
     "dailyMinutesDown": {
       "2021-03-17": 17,
       "2021-02-21": 23
