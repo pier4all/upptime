@@ -4,9 +4,9 @@
     "url": "https://preprod.enablerr.dev/login",
     "icon": "https://favicons.githubusercontent.com/preprod.enablerr.dev",
     "slug": "enablerr-preprod",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 937,
     "timeMonth": 861,
     "timeYear": 823,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-04-25": 0
+    }
   },
   {
     "name": "enablerr site",
