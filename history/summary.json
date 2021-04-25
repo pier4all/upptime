@@ -4,19 +4,19 @@
     "url": "https://preprod.enablerr.dev/login",
     "icon": "https://favicons.githubusercontent.com/preprod.enablerr.dev",
     "slug": "enablerr-preprod",
-    "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "96.11%",
-    "uptimeWeek": "99.44%",
-    "uptimeMonth": "99.87%",
-    "uptimeYear": "99.96%",
-    "time": 825,
-    "timeDay": 841,
-    "timeWeek": 929,
-    "timeMonth": 864,
-    "timeYear": 825,
+    "status": "up",
+    "uptime": "99.86%",
+    "uptimeDay": "84.70%",
+    "uptimeWeek": "97.81%",
+    "uptimeMonth": "99.50%",
+    "uptimeYear": "99.86%",
+    "time": 826,
+    "timeDay": 894,
+    "timeWeek": 942,
+    "timeMonth": 869,
+    "timeYear": 826,
     "dailyMinutesDown": {
-      "2021-04-25": 56
+      "2021-04-25": 221
     }
   },
   {
