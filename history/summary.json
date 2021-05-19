@@ -4,9 +4,9 @@
     "url": "https://www.enablerr.ch",
     "icon": "https://favicons.githubusercontent.com/www.enablerr.ch",
     "slug": "enablerr-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -16,6 +16,7 @@
     "timeMonth": 3480,
     "timeYear": 2536,
     "dailyMinutesDown": {
+      "2021-05-19": 0,
       "2021-03-17": 17
     }
   },
@@ -24,9 +25,9 @@
     "url": "https://www.pier4all.ch",
     "icon": "https://favicons.githubusercontent.com/www.pier4all.ch",
     "slug": "pier4all-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -36,6 +37,7 @@
     "timeMonth": 2126,
     "timeYear": 1623,
     "dailyMinutesDown": {
+      "2021-05-19": 0,
       "2021-03-17": 17,
       "2021-02-21": 23
     }
