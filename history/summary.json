@@ -4,9 +4,9 @@
     "url": "https://www.enablerr.ch",
     "icon": "https://favicons.githubusercontent.com/www.enablerr.ch",
     "slug": "enablerr-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -16,6 +16,7 @@
     "timeMonth": 3060,
     "timeYear": 2914,
     "dailyMinutesDown": {
+      "2021-09-16": 0,
       "2021-05-19": 18,
       "2021-03-17": 17
     }
@@ -48,14 +49,14 @@
     "icon": "https://favicons.githubusercontent.com/enablerr.online",
     "slug": "enablerr-online",
     "status": "up",
-    "uptime": "95.38%",
+    "uptime": "95.40%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "29.71%",
+    "uptimeWeek": "31.00%",
     "uptimeMonth": "83.83%",
-    "uptimeYear": "95.38%",
+    "uptimeYear": "95.40%",
     "time": 810,
     "timeDay": 660,
-    "timeWeek": 782,
+    "timeWeek": 712,
     "timeMonth": 846,
     "timeYear": 810,
     "dailyMinutesDown": {
