@@ -6,9 +6,9 @@
     "slug": "enablerr-site",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 3013,
     "timeDay": 1680,
@@ -16,7 +16,6 @@
     "timeMonth": 3012,
     "timeYear": 3206,
     "dailyMinutesDown": {
-      "2022-04-25": 5,
       "2021-05-19": 18
     }
   },
@@ -27,9 +26,9 @@
     "slug": "pier4all-site",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.69%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2159,
     "timeDay": 2244,
@@ -37,7 +36,6 @@
     "timeMonth": 2300,
     "timeYear": 2342,
     "dailyMinutesDown": {
-      "2022-04-25": 5,
       "2021-05-19": 18
     }
   },
