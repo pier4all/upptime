@@ -5,19 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/www.enablerr.ch",
     "slug": "enablerr-site",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3094,
-    "timeDay": 2570,
-    "timeWeek": 3288,
-    "timeMonth": 2996,
-    "timeYear": 3151,
-    "dailyMinutesDown": {
-      "2022-05-31": 8
-    }
+    "time": 3100,
+    "timeDay": 3422,
+    "timeWeek": 3413,
+    "timeMonth": 3077,
+    "timeYear": 3152,
+    "dailyMinutesDown": {}
   },
   {
     "name": "pier4all site",
@@ -26,18 +24,16 @@
     "slug": "pier4all-site",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.48%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2222,
-    "timeDay": 2086,
-    "timeWeek": 2344,
-    "timeMonth": 2283,
-    "timeYear": 2358,
-    "dailyMinutesDown": {
-      "2022-05-31": 7
-    }
+    "time": 2225,
+    "timeDay": 2073,
+    "timeWeek": 2311,
+    "timeMonth": 2271,
+    "timeYear": 2357,
+    "dailyMinutesDown": {}
   },
   {
     "name": "enablerr online",
@@ -51,10 +47,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.45%",
     "time": 892,
-    "timeDay": 672,
-    "timeWeek": 1053,
-    "timeMonth": 869,
-    "timeYear": 902,
+    "timeDay": 729,
+    "timeWeek": 995,
+    "timeMonth": 868,
+    "timeYear": 901,
     "dailyMinutesDown": {
       "2021-09-14": 663,
       "2021-09-13": 1440,
