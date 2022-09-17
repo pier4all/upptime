@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 3091,
-    "timeDay": 3500,
-    "timeWeek": 2716,
-    "timeMonth": 2527,
-    "timeYear": 3012,
+    "time": 3085,
+    "timeDay": 2355,
+    "timeWeek": 2692,
+    "timeMonth": 2662,
+    "timeYear": 3017,
     "dailyMinutesDown": {
       "2022-07-19": 19,
       "2022-07-10": 31
@@ -31,10 +31,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 2274,
-    "timeDay": 1770,
-    "timeWeek": 1925,
-    "timeMonth": 1821,
+    "time": 2275,
+    "timeDay": 2294,
+    "timeWeek": 2022,
+    "timeMonth": 1857,
     "timeYear": 2248,
     "dailyMinutesDown": {
       "2022-07-10": 31
@@ -46,20 +46,19 @@
     "icon": "https://favicons.githubusercontent.com/enablerr.online",
     "slug": "enablerr-online",
     "status": "up",
-    "uptime": "98.81%",
+    "uptime": "98.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.59%",
-    "time": 889,
-    "timeDay": 655,
-    "timeWeek": 844,
-    "timeMonth": 829,
-    "timeYear": 912,
+    "uptimeYear": "99.98%",
+    "time": 890,
+    "timeDay": 775,
+    "timeWeek": 867,
+    "timeMonth": 855,
+    "timeYear": 915,
     "dailyMinutesDown": {
       "2022-06-14": 72,
-      "2022-06-13": 16,
-      "2021-09-14": 663
+      "2022-06-13": 16
     }
   }
 ]
