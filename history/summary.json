@@ -2,7 +2,7 @@
   {
     "name": "enablerr site",
     "url": "https://www.enablerr.ch",
-    "icon": "https://favicons.githubusercontent.com/www.enablerr.ch",
+    "icon": "https://icons.duckduckgo.com/ip3/www.enablerr.ch.ico",
     "slug": "enablerr-site",
     "status": "up",
     "uptime": "99.99%",
@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 3063,
-    "timeDay": 3204,
-    "timeWeek": 2688,
-    "timeMonth": 2682,
-    "timeYear": 3000,
+    "time": 3065,
+    "timeDay": 2915,
+    "timeWeek": 2672,
+    "timeMonth": 2742,
+    "timeYear": 2997,
     "dailyMinutesDown": {
       "2022-07-19": 19,
       "2022-07-10": 31
@@ -23,7 +23,7 @@
   {
     "name": "pier4all site",
     "url": "https://www.pier4all.ch",
-    "icon": "https://favicons.githubusercontent.com/www.pier4all.ch",
+    "icon": "https://icons.duckduckgo.com/ip3/www.pier4all.ch.ico",
     "slug": "pier4all-site",
     "status": "up",
     "uptime": "99.99%",
@@ -31,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 2264,
-    "timeDay": 1897,
-    "timeWeek": 1909,
-    "timeMonth": 1867,
-    "timeYear": 2222,
+    "time": 2263,
+    "timeDay": 2117,
+    "timeWeek": 1882,
+    "timeMonth": 1894,
+    "timeYear": 2220,
     "dailyMinutesDown": {
       "2022-07-10": 31
     }
@@ -43,19 +43,19 @@
   {
     "name": "enablerr online",
     "url": "https://enablerr.online",
-    "icon": "https://favicons.githubusercontent.com/enablerr.online",
+    "icon": "https://icons.duckduckgo.com/ip3/enablerr.online.ico",
     "slug": "enablerr-online",
     "status": "up",
-    "uptime": "98.85%",
+    "uptime": "98.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 893,
-    "timeDay": 897,
-    "timeWeek": 808,
-    "timeMonth": 867,
-    "timeYear": 905,
+    "timeDay": 645,
+    "timeWeek": 753,
+    "timeMonth": 859,
+    "timeYear": 904,
     "dailyMinutesDown": {
       "2022-06-14": 72,
       "2022-06-13": 16
