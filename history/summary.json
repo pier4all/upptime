@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 3050,
-    "timeDay": 1738,
-    "timeWeek": 2427,
-    "timeMonth": 2710,
-    "timeYear": 2985,
+    "time": 3053,
+    "timeDay": 3173,
+    "timeWeek": 2632,
+    "timeMonth": 2766,
+    "timeYear": 2984,
     "dailyMinutesDown": {
       "2022-07-19": 19,
       "2022-07-10": 31
@@ -32,10 +32,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 2260,
-    "timeDay": 1858,
-    "timeWeek": 2020,
-    "timeMonth": 1919,
-    "timeYear": 2199,
+    "timeDay": 1863,
+    "timeWeek": 1973,
+    "timeMonth": 1914,
+    "timeYear": 2197,
     "dailyMinutesDown": {
       "2022-07-10": 31
     }
@@ -46,16 +46,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/enablerr.online.ico",
     "slug": "enablerr-online",
     "status": "up",
-    "uptime": "98.88%",
+    "uptime": "98.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 896,
-    "timeDay": 979,
-    "timeWeek": 981,
-    "timeMonth": 837,
-    "timeYear": 896,
+    "timeDay": 804,
+    "timeWeek": 951,
+    "timeMonth": 838,
+    "timeYear": 895,
     "dailyMinutesDown": {
       "2022-06-14": 72,
       "2022-06-13": 16
