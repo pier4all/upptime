@@ -14,7 +14,7 @@
     "timeDay": 1639,
     "timeWeek": 2519,
     "timeMonth": 2961,
-    "timeYear": 2850,
+    "timeYear": 2853,
     "dailyMinutesDown": {
       "2023-01-25": 28
     }
@@ -34,7 +34,7 @@
     "timeDay": 1524,
     "timeWeek": 1797,
     "timeMonth": 1717,
-    "timeYear": 1723,
+    "timeYear": 1722,
     "dailyMinutesDown": {
       "2023-01-25": 47
     }
@@ -44,9 +44,9 @@
     "url": "https://enablerr.online",
     "icon": "https://icons.duckduckgo.com/ip3/enablerr.online.ico",
     "slug": "enablerr-online",
-    "status": "up",
+    "status": "down",
     "uptime": "98.92%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.14%",
     "uptimeYear": "98.86%",
@@ -56,6 +56,7 @@
     "timeMonth": 930,
     "timeYear": 901,
     "dailyMinutesDown": {
+      "2023-11-20": 0,
       "2023-11-02": 413,
       "2023-11-01": 402,
       "2023-07-20": 23,
