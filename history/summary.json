@@ -9,15 +9,13 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
-    "time": 2868,
-    "timeDay": 2883,
-    "timeWeek": 3282,
-    "timeMonth": 3410,
-    "timeYear": 2913,
-    "dailyMinutesDown": {
-      "2023-01-25": 28
-    }
+    "uptimeYear": "100.00%",
+    "time": 2867,
+    "timeDay": 4067,
+    "timeWeek": 3069,
+    "timeMonth": 3317,
+    "timeYear": 2884,
+    "dailyMinutesDown": {}
   },
   {
     "name": "pier4all site",
@@ -29,15 +27,13 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
+    "uptimeYear": "100.00%",
     "time": 1765,
-    "timeDay": 2418,
-    "timeWeek": 2072,
-    "timeMonth": 2000,
+    "timeDay": 2334,
+    "timeWeek": 2084,
+    "timeMonth": 1981,
     "timeYear": 1724,
-    "dailyMinutesDown": {
-      "2023-01-25": 47
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "enablerr online",
@@ -45,16 +41,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/enablerr.online.ico",
     "slug": "enablerr-online",
     "status": "up",
-    "uptime": "98.97%",
+    "uptime": "98.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.32%",
-    "time": 913,
-    "timeDay": 1634,
-    "timeWeek": 1046,
-    "timeMonth": 1076,
-    "timeYear": 922,
+    "time": 915,
+    "timeDay": 1623,
+    "timeWeek": 1161,
+    "timeMonth": 1061,
+    "timeYear": 905,
     "dailyMinutesDown": {
       "2023-12-03": 245,
       "2023-11-02": 413,
@@ -62,8 +58,7 @@
       "2023-07-20": 23,
       "2023-02-15": 379,
       "2023-02-14": 1440,
-      "2023-02-13": 653,
-      "2023-01-25": 27
+      "2023-02-13": 653
     }
   }
 ]
