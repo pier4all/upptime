@@ -6,18 +6,16 @@
     "slug": "enablerr-site",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.66%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2879,
-    "timeDay": 2527,
-    "timeWeek": 2686,
-    "timeMonth": 2792,
-    "timeYear": 2890,
-    "dailyMinutesDown": {
-      "2024-03-19": 5
-    }
+    "timeDay": 3419,
+    "timeWeek": 2821,
+    "timeMonth": 2874,
+    "timeYear": 2891,
+    "dailyMinutesDown": {}
   },
   {
     "name": "pier4all site",
@@ -26,18 +24,16 @@
     "slug": "pier4all-site",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.69%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1742,
-    "timeDay": 1591,
-    "timeWeek": 1663,
-    "timeMonth": 1596,
-    "timeYear": 1688,
-    "dailyMinutesDown": {
-      "2024-03-19": 4
-    }
+    "time": 1741,
+    "timeDay": 1689,
+    "timeWeek": 1668,
+    "timeMonth": 1611,
+    "timeYear": 1689,
+    "dailyMinutesDown": {}
   },
   {
     "name": "enablerr online",
@@ -50,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.74%",
-    "time": 922,
-    "timeDay": 794,
-    "timeWeek": 826,
-    "timeMonth": 971,
-    "timeYear": 902,
+    "time": 921,
+    "timeDay": 554,
+    "timeWeek": 765,
+    "timeMonth": 960,
+    "timeYear": 901,
     "dailyMinutesDown": {
       "2024-01-28": 275,
       "2023-12-03": 245,
