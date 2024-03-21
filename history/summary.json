@@ -4,19 +4,19 @@
     "url": "https://www.enablerr.ch",
     "icon": "https://icons.duckduckgo.com/ip3/www.enablerr.ch.ico",
     "slug": "enablerr-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "98.87%",
-    "uptimeWeek": "99.84%",
+    "uptimeDay": "98.79%",
+    "uptimeWeek": "99.83%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 2893,
+    "time": 2894,
     "timeDay": 5390,
     "timeWeek": 3417,
     "timeMonth": 3051,
     "timeYear": 2907,
     "dailyMinutesDown": {
-      "2024-03-21": 16
+      "2024-03-21": 17
     }
   },
   {
@@ -26,18 +26,16 @@
     "slug": "pier4all-site",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.28%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1739,
     "timeDay": 1440,
     "timeWeek": 1624,
     "timeMonth": 1611,
     "timeYear": 1689,
-    "dailyMinutesDown": {
-      "2024-03-21": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "enablerr online",
