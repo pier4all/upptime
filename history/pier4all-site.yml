@@ -1,7 +1,7 @@
 url: https://www.pier4all.ch
-status: up
-code: 200
-responseTime: 2283
-lastUpdated: 2024-05-27T18:00:25.253Z
+status: down
+code: 500
+responseTime: 730
+lastUpdated: 2024-05-27T18:28:22.073Z
 startTime: 2021-01-06T15:15:30.000Z
 generator: Upptime <https://github.com/upptime/upptime>
