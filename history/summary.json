@@ -73,5 +73,29 @@
       "2023-11-01": 402,
       "2023-07-20": 23
     }
+},
+  {
+    "name": "enablerr app",
+    "url": "https://enablerr.app",
+    "icon": "https://icons.duckduckgo.com/ip3/enablerr.app.ico",
+    "slug": "enablerr-app",
+    "status": "up",
+    "uptime": "99.11%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.74%",
+    "time": 922,
+    "timeDay": 558,
+    "timeWeek": 757,
+    "timeMonth": 830,
+    "timeYear": 919,
+    "dailyMinutesDown": {
+      "2024-01-28": 275,
+      "2023-12-03": 245,
+      "2023-11-02": 413,
+      "2023-11-01": 402,
+      "2023-07-20": 23
+    }
   }
 ]

@@ -10,6 +10,8 @@ sites:
     url: https://www.pier4all.ch
   - name: enablerr online
     url: https://enablerr.online
+  - name: enablerr app
+    url: https://enablerr.app
 
 assignees: # Users to assign downtime issues (optional)
   - jcschmidig
