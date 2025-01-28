@@ -57,17 +57,16 @@
     "slug": "enablerr-online",
     "status": "up",
     "uptime": "99.18%",
-    "uptimeDay": "99.40%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.72%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.78%",
     "time": 927,
     "timeDay": 706,
     "timeWeek": 982,
     "timeMonth": 852,
     "timeYear": 907,
     "dailyMinutesDown": {
-      "2025-01-28": 9,
       "2024-08-27": 85,
       "2024-08-23": 310,
       "2024-08-22": 694,
@@ -79,9 +78,9 @@
     "url": "https://enablerr.app",
     "icon": "https://icons.duckduckgo.com/ip3/enablerr.app.ico",
     "slug": "enablerr-app",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -90,6 +89,8 @@
     "timeWeek": 617,
     "timeMonth": 543,
     "timeYear": 550,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-28": 0
+    }
   }
 ]
