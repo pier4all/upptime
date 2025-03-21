@@ -11,10 +11,10 @@
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.91%",
     "time": 2988,
-    "timeDay": 3182,
-    "timeWeek": 2959,
-    "timeMonth": 2927,
-    "timeYear": 2980,
+    "timeDay": 2785,
+    "timeWeek": 2950,
+    "timeMonth": 2914,
+    "timeYear": 2979,
     "dailyMinutesDown": {
       "2025-03-17": 34,
       "2025-02-22": 20,
@@ -25,8 +25,7 @@
       "2024-05-31": 21,
       "2024-05-30": 61,
       "2024-05-29": 36,
-      "2024-05-27": 136,
-      "2024-03-21": 41
+      "2024-05-27": 136
     }
   },
   {
@@ -40,11 +39,11 @@
     "uptimeWeek": "99.66%",
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.92%",
-    "time": 1596,
-    "timeDay": 1219,
-    "timeWeek": 1356,
-    "timeMonth": 1421,
-    "timeYear": 1547,
+    "time": 1595,
+    "timeDay": 936,
+    "timeWeek": 1320,
+    "timeMonth": 1411,
+    "timeYear": 1545,
     "dailyMinutesDown": {
       "2025-03-17": 34,
       "2025-02-22": 20,
@@ -70,10 +69,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.78%",
     "time": 914,
-    "timeDay": 607,
-    "timeWeek": 769,
-    "timeMonth": 900,
-    "timeYear": 902,
+    "timeDay": 628,
+    "timeWeek": 778,
+    "timeMonth": 884,
+    "timeYear": 901,
     "dailyMinutesDown": {
       "2024-08-27": 85,
       "2024-08-23": 310,
@@ -88,17 +87,16 @@
     "slug": "enablerr-app",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.67%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 581,
     "timeDay": 3152,
-    "timeWeek": 1439,
-    "timeMonth": 804,
+    "timeWeek": 1438,
+    "timeMonth": 802,
     "timeYear": 581,
     "dailyMinutesDown": {
-      "2025-03-20": 5,
       "2025-01-28": 17
     }
   }
