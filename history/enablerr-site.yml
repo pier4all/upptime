@@ -1,7 +1,7 @@
 url: https://www.enablerr.ch
-status: up
-code: 200
-responseTime: 3136
-lastUpdated: 2025-12-10T23:03:18.090Z
+status: down
+code: 502
+responseTime: 8185
+lastUpdated: 2025-12-11T16:39:42.094Z
 startTime: 2021-01-06T15:15:28.000Z
 generator: Upptime <https://github.com/upptime/upptime>
