@@ -83,18 +83,19 @@
     "url": "https://enablerr.app",
     "icon": "https://icons.duckduckgo.com/ip3/enablerr.app.ico",
     "slug": "enablerr-app",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 584,
+    "time": 585,
     "timeDay": 444,
     "timeWeek": 557,
     "timeMonth": 600,
     "timeYear": 595,
     "dailyMinutesDown": {
+      "2025-12-21": 0,
       "2025-08-05": 16,
       "2025-01-28": 17
     }
