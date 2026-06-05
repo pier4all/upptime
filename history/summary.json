@@ -6,10 +6,10 @@
     "slug": "enablerr-site",
     "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "76.77%",
-    "uptimeWeek": "91.61%",
-    "uptimeMonth": "97.81%",
-    "uptimeYear": "99.55%",
+    "uptimeDay": "72.56%",
+    "uptimeWeek": "91.00%",
+    "uptimeMonth": "97.67%",
+    "uptimeYear": "99.53%",
     "time": 2899,
     "timeDay": 3151,
     "timeWeek": 2943,
@@ -64,7 +64,8 @@
       "2026-05-31": 19,
       "2026-06-02": 70,
       "2026-06-03": 423,
-      "2026-06-04": 335
+      "2026-06-04": 342,
+      "2026-06-05": 54
     }
   },
   {
@@ -74,10 +75,10 @@
     "slug": "pier4all-site",
     "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "79.11%",
-    "uptimeWeek": "92.46%",
-    "uptimeMonth": "98.18%",
-    "uptimeYear": "99.57%",
+    "uptimeDay": "74.89%",
+    "uptimeWeek": "91.86%",
+    "uptimeMonth": "98.04%",
+    "uptimeYear": "99.56%",
     "time": 1496,
     "timeDay": 2541,
     "timeWeek": 2205,
@@ -129,7 +130,8 @@
       "2026-05-13": 17,
       "2026-06-02": 60,
       "2026-06-03": 399,
-      "2026-06-04": 300
+      "2026-06-04": 307,
+      "2026-06-05": 54
     }
   },
   {
