@@ -4,17 +4,17 @@
     "url": "https://www.enablerr.ch",
     "icon": "https://icons.duckduckgo.com/ip3/www.enablerr.ch.ico",
     "slug": "enablerr-site",
-    "status": "up",
-    "uptime": "99.87%",
-    "uptimeDay": "67.71%",
-    "uptimeWeek": "83.83%",
-    "uptimeMonth": "96.07%",
+    "status": "down",
+    "uptime": "99.88%",
+    "uptimeDay": "72.38%",
+    "uptimeWeek": "83.78%",
+    "uptimeMonth": "96.06%",
     "uptimeYear": "99.40%",
     "time": 2909,
-    "timeDay": 3214,
-    "timeWeek": 3113,
-    "timeMonth": 2985,
-    "timeYear": 2950,
+    "timeDay": 3131,
+    "timeWeek": 3117,
+    "timeMonth": 2982,
+    "timeYear": 2952,
     "dailyMinutesDown": {
       "2025-07-17": 34,
       "2025-07-31": 18,
@@ -66,7 +66,8 @@
       "2026-06-03": 423,
       "2026-06-04": 342,
       "2026-06-05": 384,
-      "2026-06-06": 393
+      "2026-06-06": 393,
+      "2026-06-07": 5
     }
   },
   {
@@ -74,17 +75,17 @@
     "url": "https://www.pier4all.ch",
     "icon": "https://icons.duckduckgo.com/ip3/www.pier4all.ch.ico",
     "slug": "pier4all-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "71.39%",
+    "uptimeDay": "75.39%",
     "uptimeWeek": "85.40%",
     "uptimeMonth": "96.60%",
     "uptimeYear": "99.44%",
     "time": 1522,
-    "timeDay": 2326,
+    "timeDay": 2237,
     "timeWeek": 2245,
-    "timeMonth": 2217,
-    "timeYear": 1556,
+    "timeMonth": 2212,
+    "timeYear": 1557,
     "dailyMinutesDown": {
       "2025-07-17": 34,
       "2025-07-31": 18,
@@ -133,7 +134,8 @@
       "2026-06-03": 399,
       "2026-06-04": 307,
       "2026-06-05": 351,
-      "2026-06-06": 353
+      "2026-06-06": 353,
+      "2026-06-07": 0
     }
   },
   {
@@ -147,10 +149,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.74%",
-    "time": 933,
-    "timeDay": 734,
-    "timeWeek": 863,
-    "timeMonth": 793,
+    "time": 932,
+    "timeDay": 631,
+    "timeWeek": 851,
+    "timeMonth": 790,
     "timeYear": 934,
     "dailyMinutesDown": {
       "2025-07-17": 29,
@@ -173,9 +175,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 604,
-    "timeDay": 428,
-    "timeWeek": 563,
-    "timeMonth": 549,
+    "timeDay": 501,
+    "timeWeek": 577,
+    "timeMonth": 544,
     "timeYear": 597,
     "dailyMinutesDown": {
       "2025-08-05": 16
