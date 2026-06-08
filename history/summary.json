@@ -4,17 +4,17 @@
     "url": "https://www.enablerr.ch",
     "icon": "https://icons.duckduckgo.com/ip3/www.enablerr.ch.ico",
     "slug": "enablerr-site",
-    "status": "down",
+    "status": "up",
     "uptime": "99.87%",
-    "uptimeDay": "82.37%",
-    "uptimeWeek": "79.79%",
-    "uptimeMonth": "95.22%",
-    "uptimeYear": "99.32%",
+    "uptimeDay": "80.89%",
+    "uptimeWeek": "79.37%",
+    "uptimeMonth": "95.12%",
+    "uptimeYear": "99.31%",
     "time": 2908,
-    "timeDay": 2589,
-    "timeWeek": 3065,
-    "timeMonth": 2953,
-    "timeYear": 2949,
+    "timeDay": 2508,
+    "timeWeek": 3064,
+    "timeMonth": 2949,
+    "timeYear": 2948,
     "dailyMinutesDown": {
       "2025-07-17": 34,
       "2025-07-31": 18,
@@ -68,7 +68,7 @@
       "2026-06-05": 384,
       "2026-06-06": 393,
       "2026-06-07": 192,
-      "2026-06-08": 233
+      "2026-06-08": 275
     }
   },
   {
@@ -76,17 +76,17 @@
     "url": "https://www.pier4all.ch",
     "icon": "https://icons.duckduckgo.com/ip3/www.pier4all.ch.ico",
     "slug": "pier4all-site",
-    "status": "down",
+    "status": "up",
     "uptime": "99.88%",
-    "uptimeDay": "83.70%",
-    "uptimeWeek": "81.88%",
-    "uptimeMonth": "95.79%",
-    "uptimeYear": "99.37%",
-    "time": 1526,
-    "timeDay": 1856,
-    "timeWeek": 2226,
-    "timeMonth": 2203,
-    "timeYear": 1569,
+    "uptimeDay": "81.89%",
+    "uptimeWeek": "81.46%",
+    "uptimeMonth": "95.70%",
+    "uptimeYear": "99.36%",
+    "time": 1527,
+    "timeDay": 1847,
+    "timeWeek": 2217,
+    "timeMonth": 2194,
+    "timeYear": 1570,
     "dailyMinutesDown": {
       "2025-07-17": 34,
       "2025-07-31": 18,
@@ -137,7 +137,7 @@
       "2026-06-05": 351,
       "2026-06-06": 353,
       "2026-06-07": 135,
-      "2026-06-08": 219
+      "2026-06-08": 261
     }
   },
   {
@@ -152,10 +152,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.74%",
     "time": 933,
-    "timeDay": 764,
-    "timeWeek": 782,
-    "timeMonth": 794,
-    "timeYear": 934,
+    "timeDay": 870,
+    "timeWeek": 806,
+    "timeMonth": 793,
+    "timeYear": 931,
     "dailyMinutesDown": {
       "2025-07-17": 29,
       "2025-11-15": 23,
@@ -177,10 +177,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 605,
-    "timeDay": 650,
-    "timeWeek": 579,
-    "timeMonth": 552,
-    "timeYear": 597,
+    "timeDay": 538,
+    "timeWeek": 560,
+    "timeMonth": 542,
+    "timeYear": 596,
     "dailyMinutesDown": {
       "2025-08-05": 16
     }
