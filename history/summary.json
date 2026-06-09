@@ -4,16 +4,16 @@
     "url": "https://www.enablerr.ch",
     "icon": "https://icons.duckduckgo.com/ip3/www.enablerr.ch.ico",
     "slug": "enablerr-site",
-    "status": "down",
+    "status": "up",
     "uptime": "99.86%",
-    "uptimeDay": "74.41%",
-    "uptimeWeek": "76.58%",
-    "uptimeMonth": "94.35%",
+    "uptimeDay": "74.42%",
+    "uptimeWeek": "76.38%",
+    "uptimeMonth": "94.30%",
     "uptimeYear": "99.25%",
-    "time": 2911,
-    "timeDay": 2890,
-    "timeWeek": 3041,
-    "timeMonth": 2943,
+    "time": 2910,
+    "timeDay": 2908,
+    "timeWeek": 3040,
+    "timeMonth": 2942,
     "timeYear": 2948,
     "dailyMinutesDown": {
       "2025-07-31": 18,
@@ -68,7 +68,7 @@
       "2026-06-06": 393,
       "2026-06-07": 192,
       "2026-06-08": 275,
-      "2026-06-09": 340
+      "2026-06-09": 360
     }
   },
   {
@@ -76,17 +76,17 @@
     "url": "https://www.pier4all.ch",
     "icon": "https://icons.duckduckgo.com/ip3/www.pier4all.ch.ico",
     "slug": "pier4all-site",
-    "status": "down",
+    "status": "up",
     "uptime": "99.87%",
-    "uptimeDay": "76.42%",
-    "uptimeWeek": "78.91%",
-    "uptimeMonth": "94.99%",
+    "uptimeDay": "76.43%",
+    "uptimeWeek": "78.72%",
+    "uptimeMonth": "94.94%",
     "uptimeYear": "99.30%",
-    "time": 1536,
-    "timeDay": 2039,
-    "timeWeek": 2217,
-    "timeMonth": 2186,
-    "timeYear": 1574,
+    "time": 1537,
+    "timeDay": 2025,
+    "timeWeek": 2211,
+    "timeMonth": 2174,
+    "timeYear": 1575,
     "dailyMinutesDown": {
       "2025-07-17": 34,
       "2025-07-31": 18,
@@ -138,7 +138,7 @@
       "2026-06-06": 353,
       "2026-06-07": 135,
       "2026-06-08": 261,
-      "2026-06-09": 312
+      "2026-06-09": 332
     }
   },
   {
@@ -155,8 +155,8 @@
     "time": 933,
     "timeDay": 976,
     "timeWeek": 818,
-    "timeMonth": 793,
-    "timeYear": 931,
+    "timeMonth": 788,
+    "timeYear": 932,
     "dailyMinutesDown": {
       "2025-07-17": 29,
       "2025-11-15": 23,
@@ -180,7 +180,7 @@
     "time": 605,
     "timeDay": 425,
     "timeWeek": 548,
-    "timeMonth": 542,
+    "timeMonth": 537,
     "timeYear": 596,
     "dailyMinutesDown": {
       "2025-08-05": 16
