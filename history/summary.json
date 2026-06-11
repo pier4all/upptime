@@ -4,17 +4,17 @@
     "url": "https://www.enablerr.ch",
     "icon": "https://icons.duckduckgo.com/ip3/www.enablerr.ch.ico",
     "slug": "enablerr-site",
-    "status": "down",
+    "status": "up",
     "uptime": "99.85%",
-    "uptimeDay": "75.56%",
-    "uptimeWeek": "76.60%",
-    "uptimeMonth": "93.40%",
+    "uptimeDay": "75.57%",
+    "uptimeWeek": "76.32%",
+    "uptimeMonth": "93.33%",
     "uptimeYear": "99.20%",
     "time": 2906,
-    "timeDay": 3121,
+    "timeDay": 3120,
     "timeWeek": 3104,
-    "timeMonth": 2962,
-    "timeYear": 2951,
+    "timeMonth": 2964,
+    "timeYear": 2952,
     "dailyMinutesDown": {
       "2026-02-07": 33,
       "2026-02-08": 36,
@@ -63,7 +63,7 @@
       "2026-06-08": 275,
       "2026-06-09": 366,
       "2026-06-10": 367,
-      "2026-06-11": 39
+      "2026-06-11": 67
     }
   },
   {
@@ -71,16 +71,16 @@
     "url": "https://www.pier4all.ch",
     "icon": "https://icons.duckduckgo.com/ip3/www.pier4all.ch.ico",
     "slug": "pier4all-site",
-    "status": "down",
+    "status": "up",
     "uptime": "99.86%",
-    "uptimeDay": "77.56%",
-    "uptimeWeek": "78.98%",
-    "uptimeMonth": "94.08%",
+    "uptimeDay": "77.57%",
+    "uptimeWeek": "78.70%",
+    "uptimeMonth": "94.01%",
     "uptimeYear": "99.25%",
-    "time": 1528,
-    "timeDay": 2118,
-    "timeWeek": 2242,
-    "timeMonth": 2182,
+    "time": 1529,
+    "timeDay": 2062,
+    "timeWeek": 2231,
+    "timeMonth": 2177,
     "timeYear": 1583,
     "dailyMinutesDown": {
       "2025-11-12": 32,
@@ -131,7 +131,7 @@
       "2026-06-08": 261,
       "2026-06-09": 333,
       "2026-06-10": 344,
-      "2026-06-11": 35
+      "2026-06-11": 62
     }
   },
   {
