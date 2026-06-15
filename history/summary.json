@@ -4,16 +4,16 @@
     "url": "https://www.enablerr.ch",
     "icon": "https://icons.duckduckgo.com/ip3/www.enablerr.ch.ico",
     "slug": "enablerr-site",
-    "status": "down",
+    "status": "up",
     "uptime": "99.83%",
-    "uptimeDay": "81.50%",
+    "uptimeDay": "80.83%",
     "uptimeWeek": "81.89%",
-    "uptimeMonth": "91.11%",
+    "uptimeMonth": "91.05%",
     "uptimeYear": "99.09%",
-    "time": 2920,
-    "timeDay": 3041,
-    "timeWeek": 3047,
-    "timeMonth": 2979,
+    "time": 2921,
+    "timeDay": 3122,
+    "timeWeek": 3056,
+    "timeMonth": 2983,
     "timeYear": 2957,
     "dailyMinutesDown": {
       "2026-03-10": 19,
@@ -55,7 +55,7 @@
       "2026-06-12": 119,
       "2026-06-13": 218,
       "2026-06-14": 321,
-      "2026-06-15": 246
+      "2026-06-15": 272
     }
   },
   {
@@ -63,17 +63,17 @@
     "url": "https://www.pier4all.ch",
     "icon": "https://icons.duckduckgo.com/ip3/www.pier4all.ch.ico",
     "slug": "pier4all-site",
-    "status": "down",
-    "uptime": "99.85%",
-    "uptimeDay": "82.84%",
+    "status": "up",
+    "uptime": "99.84%",
+    "uptimeDay": "81.83%",
     "uptimeWeek": "83.56%",
-    "uptimeMonth": "92.02%",
+    "uptimeMonth": "91.96%",
     "uptimeYear": "99.16%",
-    "time": 1551,
-    "timeDay": 2034,
-    "timeWeek": 2086,
-    "timeMonth": 2164,
-    "timeYear": 1599,
+    "time": 1553,
+    "timeDay": 2156,
+    "timeWeek": 2099,
+    "timeMonth": 2173,
+    "timeYear": 1602,
     "dailyMinutesDown": {
       "2026-03-02": 22,
       "2026-03-04": 15,
@@ -114,7 +114,7 @@
       "2026-06-12": 90,
       "2026-06-13": 193,
       "2026-06-14": 291,
-      "2026-06-15": 231
+      "2026-06-15": 258
     }
   },
   {
@@ -131,7 +131,7 @@
     "time": 934,
     "timeDay": 1188,
     "timeWeek": 1059,
-    "timeMonth": 844,
+    "timeMonth": 849,
     "timeYear": 932,
     "dailyMinutesDown": {
       "2025-07-17": 29,
@@ -156,7 +156,7 @@
     "time": 607,
     "timeDay": 789,
     "timeWeek": 636,
-    "timeMonth": 560,
+    "timeMonth": 564,
     "timeYear": 597,
     "dailyMinutesDown": {
       "2025-08-05": 16
