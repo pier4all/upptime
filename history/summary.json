@@ -55,16 +55,17 @@
     "slug": "pier4all-site",
     "status": "up",
     "uptime": "99.82%",
-    "uptimeDay": "99.08%",
-    "uptimeWeek": "95.73%",
-    "uptimeMonth": "91.10%",
-    "uptimeYear": "99.03%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "95.86%",
+    "uptimeMonth": "91.13%",
+    "uptimeYear": "99.02%",
     "time": 1605,
     "timeDay": 2360,
     "timeWeek": 2024,
     "timeMonth": 2157,
     "timeYear": 1654,
     "dailyMinutesDown": {
+      "2026-04-21": 39,
       "2026-04-23": 17,
       "2026-04-26": 19,
       "2026-04-30": 25,
@@ -97,8 +98,7 @@
       "2026-06-30": 68,
       "2026-07-01": 134,
       "2026-07-03": 109,
-      "2026-07-04": 21,
-      "2026-07-05": 13
+      "2026-07-04": 21
     }
   },
   {
