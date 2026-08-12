@@ -64,17 +64,17 @@
     "url": "https://www.pier4all.ch",
     "icon": "https://icons.duckduckgo.com/ip3/www.pier4all.ch.ico",
     "slug": "pier4all-site",
-    "status": "down",
-    "uptime": "99.84%",
-    "uptimeDay": "95.07%",
-    "uptimeWeek": "98.66%",
-    "uptimeMonth": "99.10%",
-    "uptimeYear": "99.08%",
-    "time": 1646,
-    "timeDay": 2937,
-    "timeWeek": 2480,
-    "timeMonth": 2162,
-    "timeYear": 1736,
+    "status": "up",
+    "uptime": "99.83%",
+    "uptimeDay": "93.52%",
+    "uptimeWeek": "98.44%",
+    "uptimeMonth": "99.05%",
+    "uptimeYear": "99.07%",
+    "time": 1651,
+    "timeDay": 3291,
+    "timeWeek": 2653,
+    "timeMonth": 2225,
+    "timeYear": 1741,
     "dailyMinutesDown": {
       "2026-06-04": 133,
       "2026-06-05": 351,
@@ -115,7 +115,7 @@
       "2026-08-07": 32,
       "2026-08-08": 32,
       "2026-08-11": 54,
-      "2026-08-12": 17
+      "2026-08-12": 40
     }
   },
   {
