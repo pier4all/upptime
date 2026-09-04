@@ -4,20 +4,20 @@
     "url": "https://www.enablerr.ch",
     "icon": "https://icons.duckduckgo.com/ip3/www.enablerr.ch.ico",
     "slug": "enablerr-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "95.79%",
-    "uptimeWeek": "99.40%",
-    "uptimeMonth": "99.13%",
-    "uptimeYear": "99.08%",
+    "uptimeDay": "95.44%",
+    "uptimeWeek": "99.35%",
+    "uptimeMonth": "99.12%",
+    "uptimeYear": "99.09%",
     "time": 2974,
     "timeDay": 2478,
-    "timeWeek": 2714,
+    "timeWeek": 2683,
     "timeMonth": 3182,
     "timeYear": 3033,
     "dailyMinutesDown": {
-      "2026-06-06": 32,
       "2026-06-07": 192,
+      "2026-06-06": 0,
       "2026-06-08": 275,
       "2026-06-09": 366,
       "2026-06-10": 367,
@@ -61,7 +61,8 @@
       "2026-08-19": 23,
       "2026-08-20": 21,
       "2026-08-26": 17,
-      "2026-09-03": 61
+      "2026-09-03": 61,
+      "2026-09-04": 5
     }
   },
   {
@@ -69,19 +70,19 @@
     "url": "https://www.pier4all.ch",
     "icon": "https://icons.duckduckgo.com/ip3/www.pier4all.ch.ico",
     "slug": "pier4all-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "96.46%",
+    "uptimeDay": "96.44%",
     "uptimeWeek": "99.49%",
     "uptimeMonth": "98.86%",
     "uptimeYear": "99.09%",
     "time": 1758,
     "timeDay": 1970,
-    "timeWeek": 2244,
+    "timeWeek": 2252,
     "timeMonth": 2668,
     "timeYear": 1838,
     "dailyMinutesDown": {
-      "2026-06-05": 83,
+      "2026-06-05": 58,
       "2026-06-06": 353,
       "2026-06-07": 135,
       "2026-06-08": 261,
@@ -123,7 +124,8 @@
       "2026-08-13": 61,
       "2026-08-19": 18,
       "2026-08-20": 16,
-      "2026-09-03": 51
+      "2026-09-03": 51,
+      "2026-09-04": 0
     }
   },
   {
@@ -139,7 +141,7 @@
     "uptimeYear": "99.75%",
     "time": 925,
     "timeDay": 1298,
-    "timeWeek": 944,
+    "timeWeek": 983,
     "timeMonth": 902,
     "timeYear": 923,
     "dailyMinutesDown": {
@@ -163,7 +165,7 @@
     "uptimeYear": "100.00%",
     "time": 594,
     "timeDay": 526,
-    "timeWeek": 540,
+    "timeWeek": 546,
     "timeMonth": 601,
     "timeYear": 601,
     "dailyMinutesDown": {}
