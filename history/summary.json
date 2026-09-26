@@ -134,9 +134,9 @@
     "url": "https://enablerr.online",
     "icon": "https://icons.duckduckgo.com/ip3/enablerr.online.ico",
     "slug": "enablerr-online",
-    "status": "up",
+    "status": "down",
     "uptime": "99.39%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.75%",
@@ -150,7 +150,8 @@
       "2026-02-18": 19,
       "2026-03-29": 18,
       "2026-04-07": 408,
-      "2026-04-06": 854
+      "2026-04-06": 854,
+      "2026-09-26": 0
     }
   },
   {
