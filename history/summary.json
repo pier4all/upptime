@@ -4,17 +4,17 @@
     "url": "https://www.enablerr.ch",
     "icon": "https://icons.duckduckgo.com/ip3/www.enablerr.ch.ico",
     "slug": "enablerr-site",
-    "status": "down",
+    "status": "up",
     "uptime": "99.85%",
-    "uptimeDay": "96.38%",
+    "uptimeDay": "96.33%",
     "uptimeWeek": "99.48%",
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.09%",
-    "time": 3009,
-    "timeDay": 2634,
-    "timeWeek": 2494,
-    "timeMonth": 2646,
-    "timeYear": 2964,
+    "time": 3007,
+    "timeDay": 2057,
+    "timeWeek": 2368,
+    "timeMonth": 2611,
+    "timeYear": 2962,
     "dailyMinutesDown": {
       "2026-06-07": 100,
       "2026-06-08": 275,
@@ -63,7 +63,7 @@
       "2026-09-03": 61,
       "2026-09-08": 22,
       "2026-09-16": 22,
-      "2026-11-24": 52
+      "2026-11-24": 53
     }
   },
   {
